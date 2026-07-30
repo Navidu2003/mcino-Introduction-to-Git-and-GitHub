@@ -1,18 +1,18 @@
-# Simple Interest Calculator
+# Simple Interest  Calculator
 
 ## Project Description
-This project is a simple, lightweight command-line tool written in Bash that calculates **Simple Interest** based on user-provided input. It was built as part of the "Introduction to Git and GitHub" course final project, demonstrating skills in Git version control, GitHub collaboration workflows (forking, branching, pull requests), and open-source project documentation.
+This project is a simple, lightweight command-line tool written in Bash that calculates **Simple Interest ** based on user-provided input. It was built as part of the "Introduction to Git and GitHub" course final project, demonstrating skills in Git version control, GitHub collaboration workflows (forking, branching, pull requests), and open-source project documentation.
 
-## What is Simple Interest?
-Simple interest is calculated using the formula:
+## What is Simple Interest ?
+Simple Interest  is calculated using the formula:
 
 ```
-Simple Interest (SI) = (Principal x Rate x Time) / 100
+Simple Interest  (SI) = (Principal x Rate x Time) / 100
 ```
 
 ## Features
 - Accepts user input for Principal amount, Rate of interest, and Time period
-- Calculates and displays the simple interest
+- Calculates and displays the Simple Interest 
 - Easy to run from any terminal with Bash installed
 
 ## How to Use
@@ -35,7 +35,7 @@ Simple Interest (SI) = (Principal x Rate x Time) / 100
 - `LICENSE` – Apache 2.0 License
 - `CODE_OF_CONDUCT.md` – Community guidelines
 - `CONTRIBUTING.md` – Contribution guidelines
-- `simple-interest.sh` – Bash script for the Simple Interest Calculator
+- `simple-interest.sh` – Bash script for the Simple Interest  Calculator
 
 ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
