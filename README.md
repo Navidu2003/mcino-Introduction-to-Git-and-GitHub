@@ -45,3 +45,5 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 ## Code of Conduct
 Please review our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before contributing.
+
+# Fix typo
